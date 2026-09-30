@@ -1,6 +1,6 @@
 ---
 title: "Getting Started with R"
-author: "Your name here"
+author: "Samantha Kefer"
 date: today
 format: html
 ---
